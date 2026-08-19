@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0881-boats-to-save-people](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
 | ------- |
