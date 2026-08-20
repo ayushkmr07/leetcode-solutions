@@ -8,22 +8,20 @@ int maxFreq;
     }
     
     void push(int val) {
-        mpp1[val]++;   //okay
-
+        mpp1[val]++;
         int freq=mpp1[val];
         maxFreq=max(maxFreq,freq);
         mpp2[freq].push(val);
-
     }
     
     int pop() {
         int val=mpp2[maxFreq].top();
-        mpp2[maxFreq].pop();
-        mpp1[val]--;
-        if(mpp2[maxFreq].empty()){
-            maxFreq--;
-        }
-        return val;
+       mpp2[maxFreq].pop();
+       mpp1[val]--;
+       if(mpp2[maxFreq].empty()){
+          maxFreq--;
+       }
+       return val;
     }
 };
 
