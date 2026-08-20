@@ -64,4 +64,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+## Hash Table
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
+## Stack
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
+## Design
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
