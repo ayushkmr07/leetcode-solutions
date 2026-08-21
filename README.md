@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0895-maximum-frequency-stack](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 ## Stack
 |  |
@@ -75,9 +76,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0895-maximum-frequency-stack](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 ## Ordered Set
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
