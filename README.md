@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
