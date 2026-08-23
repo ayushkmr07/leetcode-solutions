@@ -110,6 +110,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0213-house-robber-ii) |
+## String
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
