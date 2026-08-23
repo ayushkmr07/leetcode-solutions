@@ -117,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0091-decode-ways) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
