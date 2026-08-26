@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0633-sum-of-square-numbers](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0279-perfect-squares) |
 ## String
 |  |
 | ------- |
@@ -129,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
