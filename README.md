@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0139-word-break](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0895-maximum-frequency-stack](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 ## Stack
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0279-perfect-squares) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0139-word-break) |
 ## Database
 |  |
 | ------- |
@@ -143,4 +147,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
