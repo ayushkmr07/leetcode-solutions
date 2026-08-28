@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## String
 |  |
 | ------- |
@@ -169,4 +173,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
