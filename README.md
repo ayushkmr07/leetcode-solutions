@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [1048-longest-string-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [1048-longest-string-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [1048-longest-string-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0895-maximum-frequency-stack](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
+| [1048-longest-string-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Stack
 |  |
 | ------- |
@@ -125,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## String
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0139-word-break) |
+| [1048-longest-string-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## Database
 |  |
 | ------- |
