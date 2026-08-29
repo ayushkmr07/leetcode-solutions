@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0611-valid-triangle-number](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## String
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0416-partition-equal-subset-sum](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
