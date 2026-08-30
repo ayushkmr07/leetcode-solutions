@@ -30,12 +30,13 @@ public:
         int j = max(minInd, maxInd); 
         int k = min(minInd, maxInd); 
 
-       
+        
         int front = j + 1;
 
-       
+        
         int back = n - k;
 
+       
         int both = (k + 1) + (n - j);
 
         return min({front, back, both});
