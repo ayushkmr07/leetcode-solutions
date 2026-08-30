@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushkmr07/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushkmr07/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sorting
 |  |
 | ------- |
