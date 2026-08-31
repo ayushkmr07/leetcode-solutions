@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [1043-partition-array-for-maximum-sum](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1043-partition-array-for-maximum-sum](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/ayushkmr07/leetcode-solutions/tree/master/1048-longest-string-chain) |
 ## String
 |  |
